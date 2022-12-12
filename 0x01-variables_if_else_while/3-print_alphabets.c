@@ -1,9 +1,9 @@
 #include <stdio.h>
 /**
  * main - main trying
- * Description: print the alphabet in lowercase
+ * Description: print the alphabet in lower case
  * and the in uppercase, fellow by a new line
- * Returne: o
+ * Reture: o
  */
 int main(void)
 {
@@ -14,6 +14,7 @@ int main(void)
 		putchar(c);
 		c++;
 	}
+
 	c = 'A';
 
 	while (cn <= 'Z')
