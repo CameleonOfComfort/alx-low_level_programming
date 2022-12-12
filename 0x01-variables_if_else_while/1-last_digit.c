@@ -3,7 +3,7 @@
 #include <stdio.h>
 
 /**
- * main -  difficult
+ * main -  difficultone
  *
  * Return: 0
  */
