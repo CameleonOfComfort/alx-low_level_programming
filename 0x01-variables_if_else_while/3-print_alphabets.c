@@ -16,11 +16,12 @@ int main(void)
 	}
 	c = 'A';
 
-	while (c <= 'Z')
+	while (cn <= 'Z')
 	{
 		putchar(c);
 		c++;
 	}
+
 	putchar('\n');
 	return (0);
 }
