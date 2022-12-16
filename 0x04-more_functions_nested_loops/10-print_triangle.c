@@ -2,10 +2,10 @@
 
 /**
  *print_triangle - entry point
- *check this out
+ *high octain
  *Description: Prints diagonals
  *@size: size of the triangle
- * Return: void
+ *Return: void
  */
 
 void print_triangle(int size)
@@ -26,7 +26,7 @@ void print_triangle(int size)
 			}
 			for (hashes = 1; hashes <= row; hashes++)
 			{
-				_putchar('#')
+				_putchar('#');
 			}
 			_putchar('\n');
 		}
